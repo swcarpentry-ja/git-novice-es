@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Código de conducta del contribuidor"
-permalink: /conduct/
+root: /es/
+permalink: /es/conduct/
 ---
 Los contribuidores y **maintainers** de este proyecto,
 nos comprometemos a respetar a todas las personas que contribuyen a través de problemas de informes **issues**,
