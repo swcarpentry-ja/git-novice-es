@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "El Control de Versiones con Git"
-root: /es/  # Is the only page that doesn't follow the pattern /:path/index.html
+root: /es/
 permalink: /es/index.html
 ---
 
