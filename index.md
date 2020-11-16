@@ -1,6 +1,8 @@
 ---
 layout: lesson
-root: .
+title: "El Control de Versiones con Git"
+root: .  # Is the only page that doesn't follow the pattern /:path/index.html
+permalink: index.html
 ---
 
 Para ilustrar el poder de Git y GitHub, usaremos la siguiente historia 

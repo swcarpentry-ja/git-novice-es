@@ -1,5 +1,8 @@
 ---
 layout: reference
+Title: Referencia
+root: /es/
+permalink: /es/reference/
 ---
 
 ## Cheatsheets de Git para Referencia Rápida
