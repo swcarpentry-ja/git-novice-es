@@ -2,7 +2,7 @@
 layout: lesson
 title: "El Control de Versiones con Git"
 root: /es/
-permalink: /es/index/
+permalink: /es/index/index/html
 ---
 
 Para ilustrar el poder de Git y GitHub, usaremos la siguiente historia 
